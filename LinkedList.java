@@ -1,4 +1,4 @@
-class Node()
+class Node
 {
 	Node()
 	{
@@ -34,7 +34,7 @@ class Node()
 	private Object data;
 	private Node next;
 }
-class LinkedList()
+class LinkedList
 {
 	LinkedList()
 	{
